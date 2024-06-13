@@ -1,7 +1,5 @@
 # AdmitChanceAnalyzer
 
-# GradAdmitGenius
-
 ## Project Overview
 
 **AdmitChanceAnalyzer** is a data science project aimed at predicting the likelihood of admission to graduate programs based on various applicant attributes. Using the `R` programming language, this project leverages statistical modeling and machine learning techniques to analyze and predict admission chances. The project uses a dataset containing information such as GRE scores, TOEFL scores, university ratings, GPA, letters of recommendation, statement of purpose, and research experience.
